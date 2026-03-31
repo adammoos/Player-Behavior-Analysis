@@ -270,7 +270,7 @@ def main():
         """
         Analyse online player statistics — kills, deaths, assists, win rate,
         toxicity score, and more.  
-        Upload your own dataset or generate a 200-player sample to explore the full pipeline.
+        Upload your own dataset or generate a 10000-player sample to explore the full pipeline.
         """
     )
     st.divider()
