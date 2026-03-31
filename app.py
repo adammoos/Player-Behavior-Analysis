@@ -555,7 +555,6 @@ def main():
     st.divider()
     st.caption(
         "Player Behavior Analysis App · Built with Streamlit & Pandas · "
-        "KDA = (Kills + Assists) / Deaths · WinRate = Wins / (Wins + Losses) × 100"
     )
 
 
